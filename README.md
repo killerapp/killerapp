@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi there, I'm Vaskin 👋
 
-<!--
-**killerapp/killerapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📜 Bio
 
-Here are some ideas to get you started:
+I am a passionate AI enthusiast with a focus on developing innovative solutions using state-of-the-art technologies. My expertise spans across Large Language Models, multi-modal models, and AI agents. I love exploring new frontiers in AI and collaborating with like-minded professionals to bring visionary projects to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔭 Current Work
+
+I’m diving deep into cutting-edge AI technologies:
+- Large Language Models (LLMs)
+- Multi-modal Models
+- Retrieval Augmented Generation (RAG)
+- AI Agents
+
+
+## 🌱 Learning
+
+Expanding my expertise in:
+- LlamaIndex
+- Fine Tuning Techniques
+- Machine Learning
+- OpenAI Assistants
+
+
+## 👯 Collaboration
+
+Excited to collaborate on:
+- Proof of Concept Projects
+- Research in LLM and Generative AI Domains
+
+## 📫 Reach Me
+
+Feel free to connect via LinkedIn.
