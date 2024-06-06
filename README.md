@@ -31,4 +31,4 @@ Excited to collaborate on:
 
 ## 📫 Reach Me
 
-Feel free to connect via LinkedIn.
+Feel free to connect via [LinkedIn](https://linkedin.com/in/vaskin).
