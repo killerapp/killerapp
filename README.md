@@ -6,9 +6,11 @@ I'm a technologist and AI innovator with over 30 years of experience in software
 
 ## 🔭 Current Work
 
-New Tutorial for LangChain - demonstrating tool use. A real 101 on the modern 0.2 version of LangChain.
+[Semantic Kernel Ollama](https://github.com/Agentic-Insights/sk-python-labs)
+New Semantic Kernel QuickStart - demonstrating how to use Ollama and Groq with SK.
 
 [LangChain 101 Tutorial](https://github.com/Agentic-Insights/langchain-labs)
+New Tutorial for LangChain - demonstrating tool use. A real 101 on the modern 0.2 version of LangChain.
 
 
 I’m diving deep into AI technologies:
