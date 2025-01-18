@@ -5,7 +5,7 @@ I'm a seasoned technologist and AI innovator with over 30 years of experience in
 
 ## 🔭 Current Work
 
-### [Codebase Context Specification (CCS)](https://github.com/Agentic-Insights/codebase-context-spec)
+### [Codebase Context Specification (CCS)](https://codebasecontext.org)
 Pioneered the Codebase Context Specification, a groundbreaking approach to enhancing AI-assisted development:
 - 📦 [NPM Package: dotcontext](https://www.npmjs.com/package/dotcontext)
 - 📰 [Detailed Article on Substack](https://agenticinsights.substack.com/p/codebase-context-specification-rfc)
