@@ -7,31 +7,11 @@ I'm a seasoned technologist and AI innovator with over 30 years of experience in
 
 ### [Codebase Context Specification (CCS)](https://github.com/Agentic-Insights/codebase-context-spec)
 Pioneered the Codebase Context Specification, a groundbreaking approach to enhancing AI-assisted development:
-- 📦 [NPM Package: codebase-context-lint](https://www.npmjs.com/package/codebase-context-lint)
+- 📦 [NPM Package: dotcontext](https://www.npmjs.com/package/dotcontext)
 - 📰 [Detailed Article on Substack](https://agenticinsights.substack.com/p/codebase-context-specification-rfc)
 - 🎥 [AI Journalist Coverage on YouTube](https://www.youtube.com/watch?v=rcMwYL2Wa8g)
 
 > "It's like a cross between README file meets a SYSTEM prompt"
-
-### [Semantic Kernel Ollama](https://github.com/Agentic-Insights/sk-python-labs)
-New Semantic Kernel QuickStart - demonstrating how to use Ollama and Groq with SK.
-
-### [LangChain 101 Tutorial](https://github.com/Agentic-Insights/langchain-labs)
-New Tutorial for LangChain - demonstrating tool use. A real 101 on the modern 0.2 version of LangChain.
-
-I'm diving deep into AI technologies:
-- Large Language Models (LLMs) - Sonnet 3.5, Llama 3.1
-- Multi-modal Models - Audio focus, Vapi.ai, [Vocode.dev](https://www.vocode.dev/v)
-- Retrieval Augmented Generation (RAG)
-- AI Agents - LangChain, LangGraph, AgentOps, AutoGen, CrewAI, Experts.js
-
-## 🌱 Learning
-Expanding my expertise in:
-- LangChain
-- LlamaIndex
-- Fine Tuning Techniques
-- Machine Learning
-- OpenAI Assistants
 
 ## 👯 Collaboration
 Excited to collaborate on:
